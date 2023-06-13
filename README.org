@@ -1,0 +1,10 @@
+* weblocks-tree-widget
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/weblocks-framework/weblocks-tree-widget.git   |
+| commit  | 2c3dfea  |
+| systems | weblocks-tree-widget |
+|---------+-------------------------------------------|
+
